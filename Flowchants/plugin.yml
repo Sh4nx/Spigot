@@ -1,0 +1,12 @@
+main: mc.sh4nx.flowchants.main.Main
+name: Flowchants
+author: Sh4nx
+version: 0.4.2
+
+commands:
+  flowchant:
+    description: View help page for flowchants!
+    aliases: [fchant, flowenchant, flowenchants, flowchants]
+  fenchants:
+    description: View help for fenchants
+    aliases: [fenchant, fchant, fchants]
