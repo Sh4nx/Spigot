@@ -15,7 +15,7 @@ import net.minecraft.server.v1_8_R3.Material;
 
 public class fenchantadd implements CommandExecutor {
 
-//TODO: /fenchants add <ENCHANT>
+//TODO: /fenchants add <ENCHANT>e
 	public static String LifeSteal = ChatColor.GRAY + "LifeSteal";
 	public static String LifeSteal1 = ChatColor.GRAY + "LifeSteal I";
 	public static String LifeSteal2 = ChatColor.GRAY + "LifeSteal II";
