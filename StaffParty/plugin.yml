@@ -1,0 +1,52 @@
+main: mc.Sh4nx.staffparty.main.Main
+name: StaffParty
+version: 3.1.3
+author: Sh4nx
+
+commands:
+  kaboom:
+    description: KABOOM!!!
+  IWANTDIAMONDS:
+    description: Diamonds r fun :)!
+  chargedcreeper:
+    description: gimme creepz
+  tomanyfish:
+    description: FISH
+  birthday:
+    description: MERRY BIRTHDAY
+  superjump:
+    description: Make a boom and jump.
+  randomjoke:
+    description: Broadcast random and cringy jokes.
+  spam:
+    description: Spam the chat with join messages.
+  grief:
+    description: Grief it all!
+  randomitem:
+    description: Spawn random item
+  alltrolls:
+    description: do the command to see trolls
+  chickenplz:
+    description: every1 luvs chaken!
+  keepmealive:
+    description: DON D I E!
+  explosivediamond:
+    description: BOOM!
+  oof:
+    description: OOF
+  nuke:
+    description: Make a nuke. Stay away. Dont use.
+  eggtroll:
+    description: All eggs are now explosive.
+  lavatroll:
+    description: All broken blocks are now lava.
+  testblockreplace:
+    description: Test
+  starve:
+    description: Starve a player
+  burn:
+    description: Burn a player.
+  testuuid:
+    description: Test a uuid
+  scare:
+    description: Scaring a player
