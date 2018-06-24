@@ -1,7 +1,7 @@
 package mc.sh4nx.xpcore.utils;
 
 public class PlayerLevelManager {
-	
+	// Github push
 	private int level;
 	private int xp;
 	

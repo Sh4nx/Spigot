@@ -33,7 +33,7 @@ import org.bukkit.scoreboard.Scoreboard;
 import mc.sh4nx.xpcore.utils.PlayerLevelManager;
 
 
-/*
+/* GitHub Push
  * @Author
  * Jacob Luvisi
  * Minecraft IGN: Sh4nx
