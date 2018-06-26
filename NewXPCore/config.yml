@@ -1,0 +1,41 @@
+# XPCore - Developed by Sh4nx
+# ///////////////////////////////////////////////////////
+# WARNING: EDITING THIS CONFIG WILL REMOVE ALL PLAYER
+# EXPIERENCE IN PLAYER LEVELS! PLEASE COPY THAT
+# SECTION AND RE PASTE IT IN AFTER RELOAD!! EDITING
+# THIS CONFIG WILL RESET PLAYER STATS SO MAKE SURE
+# TO COPY THEM!
+# ///////////////////////////////////////////////////////
+
+PlayerLevels:
+Levels: 
+ 1: 
+  xp: 500 # Increasing this value will completely change the amount needed to level for each level.
+  
+# Change true/false for if you want the scoreboard to appear.
+
+scoreboard: true 
+
+# Change the permission node for /adminlevel
+
+admin_level_permission: xpcore.adminlevel
+
+# Change the no permission command. (If you want to change the color codes. Change the last letter before the first word (c, e, 3, etc)
+
+no_permission: §cYou are now allowed to do this!
+
+# If you want the player to see when they gain expierence?
+
+xp_messages_enabled: true
+
+# Message for leveling up
+
+leveled_up_message: §eLeveled Up!
+
+# The message when people do /xpinfo and recieve a book.
+
+book_obtained_message: §aBook obtained!
+
+# Credits for admin
+
+credits_admin_permission: xpcore.admin.credits

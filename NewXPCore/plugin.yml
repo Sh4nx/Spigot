@@ -1,0 +1,19 @@
+main: mc.sh4nx.xpcore.main.Main
+name: XPCore
+author: Sh4nx
+version: 1.8.5
+depend: [Vault, CoinsAPINB, MenuBuilder]
+
+commands:
+  myxp:
+    description: VIEW XP
+  xpcore:
+    description: NULL
+  xpinfo:
+    description: null
+  xplist:
+    description: null
+  adminlevel:
+    description: null
+  credits:
+    description: null
